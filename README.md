@@ -1,2 +1,2 @@
 # pandemicdatahack
-wage prediction
+salary prediction
